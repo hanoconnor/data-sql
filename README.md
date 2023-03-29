@@ -13,5 +13,13 @@ Useful resource links to supplement the CFG Data & SQL course.
 | [MySQL Basics](https://www.mysqltutorial.org/mysql-basics/) | MySQL Tutorial |
 | [Coderpad Sandbox Link](https://app.coderpad.io/sandbox) | CoderPad |
 
+<h2>Project Resources</h2>
+
+| Resource | Source | 
+|--|--|
+| [Example Project: Zoo Database](https://github.com/hanoconnor/Gotham-Zoo-Database-Project) | H. O'Connor |
+| [Example Project Demo/Presentation: Workbench](https://github.com/hanoconnor/Gotham-Zoo-Database-Project/blob/main/Gotham_zoo_presentation.sql) | H. O'Connor |
+| [Kaggle Public Datasets](https://www.kaggle.com/datasets) | Kaggle |
+<p><b>Disclaimer:</b> please note th example project was completed by an instructor with the use case of being a demo 'student' portfolio project in mind - remember we all have different starting points and your project does <b><i>not</i></b> have to meet all of these requirements!</p>
 <br>
 <i>Please note that this repo does not contain any CFG content to protect their teaching materials.</i>
