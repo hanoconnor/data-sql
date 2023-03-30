@@ -64,6 +64,12 @@
 
 <br>
 
+<h2>Session 5: Data Mainpulation</h2>
+
+| Resource | Source | 
+|--|--|
+| [MySQL Functions List](https://www.w3schools.com/mysql/mysql_ref_functions.asp) | W3 Schools |
+
 <h2>Project Resources</h2>
 <p><b>Disclaimer:</b> please note the example project was completed by an instructor with the use case of being a demo 'student' portfolio project in mind - remember we all have different starting points and your project does <b><i>not</i></b> have to meet all of these requirements!</p>
 
