@@ -106,6 +106,7 @@
 | [Build Power BI visuals and reports](https://learn.microsoft.com/en-us/training/paths/build-power-bi-visuals-reports/) | Microsoft Learn |
 | [Create and use analytics reports with Power BI](https://learn.microsoft.com/en-us/training/paths/create-use-analytics-reports-power-bi/) | Microsoft Learn |
 | [Tableau Free E-Learning Modules](https://www.tableau.com/learn/training/20222) | Tableau |
+| [Tableau Public Learn Resources](https://public.tableau.com/app/resources/learn) | Tableau |
 <br>
 
 <h2>Project Resources</h2>
@@ -116,6 +117,7 @@
 | [Example Project: Zoo Database](https://github.com/hanoconnor/Gotham-Zoo-Database-Project) | H. O'Connor |
 | [Example Project Demo/Presentation: Workbench](https://github.com/hanoconnor/Gotham-Zoo-Database-Project/blob/main/Gotham_zoo_presentation.sql) | H. O'Connor |
 | [Kaggle Public Datasets](https://www.kaggle.com/datasets) | Kaggle |
+| [Tableau Sample Data](https://public.tableau.com/app/resources/sample-data?qt-overview_resources=1) | Tableau |
 <br>
 
 <h2>Additional Resources</h2>
