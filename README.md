@@ -92,20 +92,30 @@
 | [Difference between Stored Procedure and Function Article](https://bestinterviewquestion.medium.com/difference-between-stored-procedure-and-function-in-mysql-52f845d70b05) | Medium |
 | [Bro Code: MySQL Views](https://www.youtube.com/watch?v=wciubfRhvtM) | YouTube |
 | [Bro Code: Stored Procedures](https://www.youtube.com/watch?v=oagHZwY9JJY) | YouTube |
+<br>
+
+<h2>Session 7: Database Design & Data Visualisation</h2>
+
+| Resource | Source | 
+|--|--|
+| [Backup & Restore MySQL databases using mysqldump](https://www.sqlshack.com/how-to-backup-and-restore-mysql-databases-using-the-mysqldump-command/) | SQL Shack |
+| [Mysqldump Docs](https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html) | MySQL 8.0 Reference Manual |
+| [Create a DB backup for Windows](https://www.youtube.com/watch?v=tpAk7Kveig4) | Youtube |
+| [Create a DB backup for Mac](https://www.youtube.com/watch?v=2-_ZU7N3XEM) | YouTube |
+| [Get started with Power BI](https://learn.microsoft.com/en-us/training/paths/get-started-power-bi/) | Microsoft Learn |
+| [Build Power BI visuals and reports](https://learn.microsoft.com/en-us/training/paths/build-power-bi-visuals-reports/) | Microsoft Learn |
+| [Create and use analytics reports with Power BI](https://learn.microsoft.com/en-us/training/paths/create-use-analytics-reports-power-bi/) | Microsoft Learn |
+| [Tableau Free E-Learning Modules](https://www.tableau.com/learn/training/20222) | Tableau |
+<br>
 
 <h2>Project Resources</h2>
 <p><b>Disclaimer:</b> please note the example project was completed by an instructor with the use case of being a demo 'student' portfolio project in mind - remember we all have different starting points and your project does <b><i>not</i></b> have to meet all of these requirements!</p>
-
-
-
-
 
 | Resource | Source | 
 |--|--|
 | [Example Project: Zoo Database](https://github.com/hanoconnor/Gotham-Zoo-Database-Project) | H. O'Connor |
 | [Example Project Demo/Presentation: Workbench](https://github.com/hanoconnor/Gotham-Zoo-Database-Project/blob/main/Gotham_zoo_presentation.sql) | H. O'Connor |
 | [Kaggle Public Datasets](https://www.kaggle.com/datasets) | Kaggle |
-
 <br>
 
 <h2>Additional Resources</h2>
