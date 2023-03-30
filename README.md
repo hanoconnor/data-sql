@@ -130,6 +130,7 @@
 
 <h2>Next Steps / Career</h2>
 <p>Here are some useful resources for after you have completed your CFG Data & SQL course.</p>
+
 | Resource | Source | 
 |--|--|
 | [Microsoft Azure Data Fundamentals - Learn Pathways are Free](https://learn.microsoft.com/en-us/certifications/exams/dp-900/)| Microsoft Learn |
