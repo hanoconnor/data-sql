@@ -128,5 +128,11 @@
 | [MySQL Replace](https://www.w3schools.com/sql/func_mysql_replace.asp)| W3 Schools |
 | [MySQL String Replace Function](https://www.mysqltutorial.org/mysql-string-replace-function.aspx) | MySQL Tutorial |
 
+<h2>Next Steps / Career</h2>
+<p>Here are some useful resources for after you have completed your CFG Data & SQL course.</p>
+| Resource | Source | 
+|--|--|
+| [Microsoft Azure Data Fundamentals - Learn Pathways are Free](https://learn.microsoft.com/en-us/certifications/exams/dp-900/)| Microsoft Learn |
+
 <br>
-<i>Please note that this repo does not contain any CFG content to protect their teaching materials.</i>
+<i>Please note: this repo does not contain any CFG content to protect their teaching materials and course content.</i>
