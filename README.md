@@ -1,5 +1,5 @@
 # CFG Data & SQL: Useful Resource Links Repo
-Useful resource links to supplement the CFG Data & SQL course. 
+Useful resource links to supplement the CFG Data & SQL course. I have curated this list of useful resource links during my time as a Lead Instructor teaching the course. I decided to save the list to a repo, so students can continue to have access to them following completion of the course and for fellow CFG instructors to use.
 
 
 <h2>Session 1: Introduction to SQL & Data Science</h2>
@@ -12,6 +12,23 @@ Useful resource links to supplement the CFG Data & SQL course.
 | [SQL Data Types](https://www.w3schools.com/sql/sql_datatypes.asp) | W3 Schools |
 | [MySQL Basics](https://www.mysqltutorial.org/mysql-basics/) | MySQL Tutorial |
 | [Coderpad Sandbox Link](https://app.coderpad.io/sandbox) | CoderPad |
+
+<h2>Session 2: SQL Coding & Database Management (inc. Normalisation)</h2>
+
+| Resource | Source | 
+|--|--|
+| [Database Normalisation](https://www.complexsql.com/database-normalization/) | ComplexSQL |
+| [What is Normalization in DBMS?](https://www.guru99.com/database-normalization.html) | Guru99 |
+| [Decomplexify: Learn Database Normalization](https://www.youtube.com/watch?v=GFQaEYEc8_8) | YouTube |
+| [SQL Command Types](https://www.javatpoint.com/dbms-sql-command) | JavaTpoint |
+| [MySQL Primary Keys](https://www.mysqltutorial.org/mysql-primary-key/) | MySQL Tutorial |
+| [MySQL Foreign Keys](https://www.mysqltutorial.org/mysql-foreign-key/) | MySQL Tutorial |
+| [MySQL Constraints] (https://www.w3schools.com/mysql/mysql_constraints.asp) | W3 Schools |
+| [MySQL Constraints with Examples](https://www.javatpoint.com/mysql-constraints) |JavaTpoint |
+| [Bro Code: MySQL Unions] (https://www.youtube.com/watch?v=su-fxrvKTCk) | YouTube |
+
+ 
+
 
 <h2>Project Resources</h2>
 
