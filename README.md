@@ -127,6 +127,7 @@
 |--|--|
 | [MySQL Replace](https://www.w3schools.com/sql/func_mysql_replace.asp)| W3 Schools |
 | [MySQL String Replace Function](https://www.mysqltutorial.org/mysql-string-replace-function.aspx) | MySQL Tutorial |
+<br>
 
 <h2>Next Steps / Career</h2>
 <p>Here are some useful resources for after you have completed your CFG Data & SQL course.</p>
