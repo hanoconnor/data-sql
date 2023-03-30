@@ -1,5 +1,5 @@
 # CFG Data & SQL: Useful Resource Links Repo
-<p>Useful resource links to supplement the CFG Data & SQL course. I have curated this list of useful resource links during my time as a Lead Instructor teaching the course. I decided to save the list to a repo, so students can continue to have access to them following completion of the course and for fellow CFG instructors to use.</p> 
+<p>Useful resource links to supplement the CFG Data & SQL course. I have curated this list of useful resource links during my time as a Lead Instructor teaching the course. I decided to save the list to a repo, so students can continue to have access to them following completion of the course and for fellow CFG instructors to use. Hope it helps.</p> 
 <p>You can 'Star' to save the repo for future easy access to the resources if you have found this list useful. Please do report any broken links and I shall fix or add a suitable alternative as soon as possible.</p>
 
 
@@ -43,6 +43,25 @@
 | [MySQL Group By Clause](https://www.mysqltutorial.org/mysql-group-by.aspx) | MySQL Tutorial |
 | [MySQL Order By Clause](https://www.mysqltutorial.org/mysql-order-by/) | MySQL Tutorial |
 | [MySQL DISTINCT Clause](https://www.mysqltutorial.org/mysql-distinct.aspx) | MySQL Tutorial |
+<br>
+
+<h2>Session 4: Data Analysis (Joins & Subqueries)</h2>
+
+| Resource | Source | 
+|--|--|
+| [MySQL Joins Poster](https://stevestedman.com/2015/03/mysql-join-types-poster/) | Steve Stedman |
+| [MySQL Joins Tutorial](https://www.mysqltutorial.org/mysql-join/) | MySQL Tutorial |
+| [MySQL Joins](https://www.guru99.com/joins.html)| Guru99 |
+| [MySQL Joins w. Visual Examples](https://www.techonthenet.com/mysql/joins.php) | Tech on the Net |
+| [Bro Code: MySQL Joins](https://www.youtube.com/watch?v=G3lJAxg1cy8) | YouTube |
+| [MySQL Inner Join](https://www.mysqltutorial.org/mysql-inner-join.aspx) | MySQL Tutorial |
+| [MySQL Cross Join](https://www.mysqltutorial.org/mysql-cross-join/) | MySQL Tutorial |
+| [MySQL Self Join](https://www.mysqltutorial.org/mysql-self-join/) | MySQL Tutorial |
+| [Bro Code: MySQL Self Joins](https://www.youtube.com/watch?v=lweF--_3Pk8) | YouTube |
+| [MySQL Subquery Tutorial](https://www.mysqltutorial.org/mysql-subquery/) | MySQL Tutorial |  
+| [MySQL Subqueries](https://www.techonthenet.com/mysql/subqueries.php) | Tech on the Net |
+| [Bro Code: MySQL Subqueries](https://www.youtube.com/watch?v=i5acg3Hvu6g) | YouTube |
+
 <br>
 
 <h2>Project Resources</h2>
