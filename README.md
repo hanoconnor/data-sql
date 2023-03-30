@@ -1,5 +1,6 @@
 # CFG Data & SQL: Useful Resource Links Repo
-Useful resource links to supplement the CFG Data & SQL course. I have curated this list of useful resource links during my time as a Lead Instructor teaching the course. I decided to save the list to a repo, so students can continue to have access to them following completion of the course and for fellow CFG instructors to use.
+<p>Useful resource links to supplement the CFG Data & SQL course. I have curated this list of useful resource links during my time as a Lead Instructor teaching the course. I decided to save the list to a repo, so students can continue to have access to them following completion of the course and for fellow CFG instructors to use.</p> 
+<p>Please feel free star the repo or favourite the link for quick and easy access to the resources. Please do report any broken links and I shall fix or add a suitable alternative as soon as possible.</p>
 
 
 <h2>Session 1: Introduction to SQL & Data Science</h2>
@@ -12,6 +13,7 @@ Useful resource links to supplement the CFG Data & SQL course. I have curated th
 | [SQL Data Types](https://www.w3schools.com/sql/sql_datatypes.asp) | W3 Schools |
 | [MySQL Basics](https://www.mysqltutorial.org/mysql-basics/) | MySQL Tutorial |
 | [Coderpad Sandbox Link](https://app.coderpad.io/sandbox) | CoderPad |
+<br>
 
 <h2>Session 2: SQL Coding & Database Management (inc. Normalisation)</h2>
 
@@ -28,17 +30,30 @@ Useful resource links to supplement the CFG Data & SQL course. I have curated th
 | [Bro Code: MySQL Unions](https://www.youtube.com/watch?v=su-fxrvKTCk) | YouTube |
 | [MySQL Union Operator](https://www.w3schools.com/mysql/mysql_union.asp)| W3 Schools |
 | [MySQL Union All](https://www.techonthenet.com/mysql/union_all.php)| Tech on the Net|
- 
+ <br>
 
+<h2>Session 3: Data Analysis</h2>
+
+| Resource | Source | 
+|--|--|
+| [MySQL Comparison Operators](https://www.techonthenet.com/mysql/comparison_operators.php) | Tech on the Net |
+| [MySQL LIKE Operator](https://www.w3schools.com/mysql/mysql_like.asp) | W3 Schools |
+| [MySQL LIKE Tutorial w. Examples](https://www.mysqltutorial.org/mysql-like/) | MySQL Tutorial |
+| [MySQL Aggregate Functions](https://www.mysqltutorial.org/mysql-aggregate-functions.aspx) | MySQL Tutorial |
+| [MySQL Group By Clause](https://www.mysqltutorial.org/mysql-group-by.aspx) | MySQL Tutorial |
+| [MySQL Order By Clause](https://www.mysqltutorial.org/mysql-order-by/) | MySQL Tutorial |
+| [MySQL DISTINCT Clause](https://www.mysqltutorial.org/mysql-distinct.aspx) | MySQL Tutorial |
+<br>
 
 <h2>Project Resources</h2>
+<p><b>Disclaimer:</b> please note the example project was completed by an instructor with the use case of being a demo 'student' portfolio project in mind - remember we all have different starting points and your project does <b><i>not</i></b> have to meet all of these requirements!</p>
 
 | Resource | Source | 
 |--|--|
 | [Example Project: Zoo Database](https://github.com/hanoconnor/Gotham-Zoo-Database-Project) | H. O'Connor |
 | [Example Project Demo/Presentation: Workbench](https://github.com/hanoconnor/Gotham-Zoo-Database-Project/blob/main/Gotham_zoo_presentation.sql) | H. O'Connor |
 | [Kaggle Public Datasets](https://www.kaggle.com/datasets) | Kaggle |
-<p><b>Disclaimer:</b> please note the example project was completed by an instructor with the use case of being a demo 'student' portfolio project in mind - remember we all have different starting points and your project does <b><i>not</i></b> have to meet all of these requirements!</p>
+
 <br>
 
 <h2>Additional Resources</h2>
