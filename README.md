@@ -69,6 +69,12 @@
 | Resource | Source | 
 |--|--|
 | [MySQL Functions List](https://www.w3schools.com/mysql/mysql_ref_functions.asp) | W3 Schools |
+| [MySQL Functions](https://www.guru99.com/functions.html) | Guru99 |
+| [How to Use MySQL Transactions](https://www.freecodecamp.org/news/how-to-use-mysql-transactions/) | FreeCodeCamp |
+| [MySQL Transactions](https://www.mysqltutorial.org/mysql-transaction.aspx) | MySQL Tutorial |
+| [MySQL Docs Transactions - Adv](https://dev.mysql.com/doc/refman/8.0/en/commit.html) | MySQL 8.0 Reference Manual |
+| [MySQL Docs Table Locking - Adv](https://dev.mysql.com/doc/refman/8.0/en/lock-tables.html) | MySQL 8.0 Reference Manual |
+| [MySQL Table Locking Tutorial](https://www.mysqltutorial.org/mysql-table-locking/) | MySQL Tutorial |
 
 <h2>Project Resources</h2>
 <p><b>Disclaimer:</b> please note the example project was completed by an instructor with the use case of being a demo 'student' portfolio project in mind - remember we all have different starting points and your project does <b><i>not</i></b> have to meet all of these requirements!</p>
