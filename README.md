@@ -26,7 +26,8 @@ Useful resource links to supplement the CFG Data & SQL course. I have curated th
 | [MySQL Constraints](https://www.w3schools.com/mysql/mysql_constraints.asp) | W3 Schools |
 | [MySQL Constraints with Examples](https://www.javatpoint.com/mysql-constraints) |JavaTpoint |
 | [Bro Code: MySQL Unions](https://www.youtube.com/watch?v=su-fxrvKTCk) | YouTube |
-
+| [MySQL Union Operator](https://www.w3schools.com/mysql/mysql_union.asp)| W3 Schools |
+| [MySQL Union All](https://www.techonthenet.com/mysql/union_all.php)| Tech on the Net|
  
 
 
