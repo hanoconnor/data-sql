@@ -135,6 +135,8 @@
 | Resource | Source | 
 |--|--|
 | [Microsoft Azure Data Fundamentals - Learn Pathways are Free](https://learn.microsoft.com/en-us/certifications/exams/dp-900/)| Microsoft Learn |
+| [Career Foundry: Building Your First Data Analytics Portfolio 2023](https://www.youtube.com/watch?v=j9Q84_Gn_T0) | Youtube |
+| [Data Analytics Portfolio Examples - 2023](https://careerfoundry.com/en/blog/data-analytics/data-analytics-portfolio-examples/) | Career Foundry |
 
 <br>
 <i>Please note: this repo does not contain any CFG content to protect their teaching materials and course content.</i>
