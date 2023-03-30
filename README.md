@@ -40,4 +40,14 @@ Useful resource links to supplement the CFG Data & SQL course. I have curated th
 | [Kaggle Public Datasets](https://www.kaggle.com/datasets) | Kaggle |
 <p><b>Disclaimer:</b> please note the example project was completed by an instructor with the use case of being a demo 'student' portfolio project in mind - remember we all have different starting points and your project does <b><i>not</i></b> have to meet all of these requirements!</p>
 <br>
+
+<h2>Additional Resources</h2>
+<p>These additional resources have been added after student queries on the topics outside of the main course curriculum.</p>
+
+| Resource | Source | 
+|--|--|
+| [MySQL Replace](https://www.w3schools.com/sql/func_mysql_replace.asp)| W3 Schools |
+| [MySQL String Replace Function](https://www.mysqltutorial.org/mysql-string-replace-function.aspx) | MySQL Tutorial |
+
+<br>
 <i>Please note that this repo does not contain any CFG content to protect their teaching materials.</i>
