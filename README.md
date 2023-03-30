@@ -23,9 +23,9 @@ Useful resource links to supplement the CFG Data & SQL course. I have curated th
 | [SQL Command Types](https://www.javatpoint.com/dbms-sql-command) | JavaTpoint |
 | [MySQL Primary Keys](https://www.mysqltutorial.org/mysql-primary-key/) | MySQL Tutorial |
 | [MySQL Foreign Keys](https://www.mysqltutorial.org/mysql-foreign-key/) | MySQL Tutorial |
-| [MySQL Constraints] (https://www.w3schools.com/mysql/mysql_constraints.asp) | W3 Schools |
+| [MySQL Constraints](https://www.w3schools.com/mysql/mysql_constraints.asp) | W3 Schools |
 | [MySQL Constraints with Examples](https://www.javatpoint.com/mysql-constraints) |JavaTpoint |
-| [Bro Code: MySQL Unions] (https://www.youtube.com/watch?v=su-fxrvKTCk) | YouTube |
+| [Bro Code: MySQL Unions](https://www.youtube.com/watch?v=su-fxrvKTCk) | YouTube |
 
  
 
@@ -37,6 +37,6 @@ Useful resource links to supplement the CFG Data & SQL course. I have curated th
 | [Example Project: Zoo Database](https://github.com/hanoconnor/Gotham-Zoo-Database-Project) | H. O'Connor |
 | [Example Project Demo/Presentation: Workbench](https://github.com/hanoconnor/Gotham-Zoo-Database-Project/blob/main/Gotham_zoo_presentation.sql) | H. O'Connor |
 | [Kaggle Public Datasets](https://www.kaggle.com/datasets) | Kaggle |
-<p><b>Disclaimer:</b> please note th example project was completed by an instructor with the use case of being a demo 'student' portfolio project in mind - remember we all have different starting points and your project does <b><i>not</i></b> have to meet all of these requirements!</p>
+<p><b>Disclaimer:</b> please note the example project was completed by an instructor with the use case of being a demo 'student' portfolio project in mind - remember we all have different starting points and your project does <b><i>not</i></b> have to meet all of these requirements!</p>
 <br>
 <i>Please note that this repo does not contain any CFG content to protect their teaching materials.</i>
