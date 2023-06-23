@@ -70,6 +70,7 @@
 |--|--|
 | [MySQL Functions List](https://www.w3schools.com/mysql/mysql_ref_functions.asp) | W3 Schools |
 | [MySQL Functions](https://www.guru99.com/functions.html) | Guru99 |
+| [MySQL Docs: Built-In Function and Operator Reference - Adv](https://dev.mysql.com/doc/refman/8.0/en/built-in-function-reference.html) | MySQL 8.0 Reference Manual |
 | [How to Use MySQL Transactions](https://www.freecodecamp.org/news/how-to-use-mysql-transactions/) | FreeCodeCamp |
 | [MySQL Transactions](https://www.mysqltutorial.org/mysql-transaction.aspx) | MySQL Tutorial |
 | [MySQL Docs Transactions - Adv](https://dev.mysql.com/doc/refman/8.0/en/commit.html) | MySQL 8.0 Reference Manual |
