@@ -1,9 +1,9 @@
-# CFG Data & SQL: Useful Resource Links Repo
-<p>Useful resource links to supplement the CFG Data & SQL course. I have curated this list of useful resource links during my time as a Lead Instructor teaching the course. I decided to save the list to a repo, so students can continue to have access to them following completion of the course and for fellow CFG instructors to use. Hope it helps.</p> 
+#Data & SQL: Useful Resource Links Repo
+<p>Useful resource links to supplement Data & SQL learning I have curated this list of useful resource links during my time as a Lead Instructor teaching the Data & SQL. I decided to save the list to a repo, so students can continue to have access to them following completion of the courses and for fellow instructors to use. Hope it helps.</p> 
 <p>You can 'Star' to save the repo or just bookmark the link for future easy access to the resources if you have found this list useful. Please do report any broken links and I shall fix or add a suitable alternative as soon as possible.</p>
 
 
-<h2>Session 1: Introduction to SQL & Data Science</h2>
+<h2>Introduction to SQL & Data Science</h2>
 
 | Resource | Source | 
 |--|--|
@@ -15,7 +15,7 @@
 | [Coderpad Sandbox Link](https://app.coderpad.io/sandbox) | CoderPad |
 <br>
 
-<h2>Session 2: SQL Coding & Database Management (inc. Normalisation)</h2>
+<h2>SQL Coding & Database Management (inc. Normalisation)</h2>
 
 | Resource | Source | 
 |--|--|
@@ -32,7 +32,7 @@
 | [MySQL Union All](https://www.techonthenet.com/mysql/union_all.php)| Tech on the Net|
  <br>
 
-<h2>Session 3: Data Analysis</h2>
+<h2>Data Analysis</h2>
 
 | Resource | Source | 
 |--|--|
@@ -45,7 +45,7 @@
 | [MySQL DISTINCT Clause](https://www.mysqltutorial.org/mysql-distinct.aspx) | MySQL Tutorial |
 <br>
 
-<h2>Session 4: Data Analysis (Joins & Subqueries)</h2>
+<h2>Data Analysis (Joins & Subqueries)</h2>
 
 | Resource | Source | 
 |--|--|
@@ -64,7 +64,7 @@
 
 <br>
 
-<h2>Session 5: Data Mainpulation</h2>
+<h2>Data Mainpulation</h2>
 
 | Resource | Source | 
 |--|--|
@@ -78,7 +78,7 @@
 | [MySQL Table Locking Tutorial](https://www.mysqltutorial.org/mysql-table-locking/) | MySQL Tutorial |
 <br>
 
-<h2>Session 6: Data Management</h2>
+<h2>Data Management</h2>
 
 | Resource | Source | 
 |--|--|
@@ -95,7 +95,7 @@
 | [Bro Code: Stored Procedures](https://www.youtube.com/watch?v=oagHZwY9JJY) | YouTube |
 <br>
 
-<h2>Session 7: Database Design & Data Visualisation</h2>
+<h2>Database Design & Data Visualisation</h2>
 
 | Resource | Source | 
 |--|--|
@@ -110,7 +110,7 @@
 | [Tableau Public Learn Resources](https://public.tableau.com/app/resources/learn) | Tableau |
 <br>
 
-<h2>Project Resources</h2>
+<h2>Portfolio Project Resources</h2>
 <p><b>Disclaimer:</b> please note the example project was completed by an instructor with the use case of being a demo 'student' portfolio project in mind - remember we all have different starting points and your project does <b><i>not</i></b> have to meet all of these requirements!</p>
 
 | Resource | Source | 
@@ -122,7 +122,7 @@
 <br>
 
 <h2>Additional Resources</h2>
-<p>These additional resources have been added after student queries on the topics outside of the main course curriculum.</p>
+<p>These additional resources have been added after student queries on additional topics.</p>
 
 | Resource | Source | 
 |--|--|
@@ -131,7 +131,7 @@
 <br>
 
 <h2>Next Steps / Career</h2>
-<p>Here are some useful resources for after you have completed your CFG Data & SQL course.</p>
+<p>Here are some useful resources for after you have completed your Data & SQL course.</p>
 
 | Resource | Source | 
 |--|--|
@@ -139,5 +139,4 @@
 | [Career Foundry: Building Your First Data Analytics Portfolio 2023](https://www.youtube.com/watch?v=j9Q84_Gn_T0) | Youtube |
 | [Data Analytics Portfolio Examples - 2023](https://careerfoundry.com/en/blog/data-analytics/data-analytics-portfolio-examples/) | Career Foundry |
 
-<br>
-<i>Please note: this repo does not contain any CFG content to protect their teaching materials and course content.</i>
+
